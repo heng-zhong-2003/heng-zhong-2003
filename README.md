@@ -26,6 +26,10 @@ I am Nicolas Heng Zhong ("Nicolas" is after the group of mathematicians "Nicolas
 - C (8 years of experience); Standard ML, OCaml, Rust, Verilog/SystemVerilog (Expert); Modern C++, Haskell (Familiar); Coq (Learning)
 - English (Highly Proficient), Chinese (Native), Japanese (Learning)
 
+## Writings
+
+1. Heng Zhong and Anrui Liu. Meerkat: A Distributed Reactive Programming Language with Live Updates. 2024. arXiv: 2407.06885 [cs.PL]. URL: https://arxiv.org/abs/2407.06885. <span style="color:red">Submitted to ACM SPLASH'24 SRC</span>.
+
 ## Hobbies
 
 Skiing, Kendo, Developing gadget software, Translating literatures in PL to Chinese
