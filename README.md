@@ -32,4 +32,4 @@ I am Nicolas Heng Chung ("Nicolas" is after the group of mathematicians "Nicolas
 
 ## Hobbies
 
-Skiing, Kendo, Type systems
+Skiing, Kendo, Haibara Ai/CoAi fanfiction
