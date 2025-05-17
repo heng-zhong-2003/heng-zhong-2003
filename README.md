@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nicolas Heng Zhong ("Nicolas" is after the group of mathematicians "Nicolas Bourbaki", the thought of whom I highly identify with), currently a senior undergraduate at Fudan University. My research interest is in programming languages and computer systems.
+I am Nicolas Heng Chung ("Nicolas" is after the group of mathematicians "Nicolas Bourbaki", the thought of whom I highly identify with), currently a senior undergraduate at Fudan University. My research interest is in programming languages and computer systems.
 
 <a href="https://github.com/heng-zhong-2003">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heng-zhong-2003&layout=compact&hide=html&langs_count=8" />
