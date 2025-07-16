@@ -28,7 +28,7 @@ I am Nicolas Heng Chung ("Nicolas" is after the group of mathematicians "Nicolas
 
 ## Writings
 
-1. Heng Zhong and Anrui Liu. 2024. Meerkat: Distributed Reactive Live Semantics with Causal Consistency. In Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH Companion '24). Association for Computing Machinery, New York, NY, USA, 52–53. https://doi.org/10.1145/3689491.3691822
+1. **Heng Zhong** and Anrui Liu. 2024. Meerkat: Distributed Reactive Live Semantics with Causal Consistency. In Companion Proceedings of the 2024 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH Companion '24). Association for Computing Machinery, New York, NY, USA, 52–53. https://doi.org/10.1145/3689491.3691822
 
 ## Hobbies
 
